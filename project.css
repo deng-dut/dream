@@ -3,4 +3,32 @@ nav {
     font-size: xx-large;
     text-align: center;
     text-decoration-thickness: solid;
+    border-radius: 3px;
+}
+div {
+    background-image: url(/1745173882708.jpg);
+    background-repeat: no-repeat;
+    height: 80%;
+    width: 90%;
+    border-radius: 4px;
+    text-align: center;
+    background-size: cover;
+    padding: 40px;
+    background-position: center;
+    min-height: 150px;
+    margin-top: 10px;
+    color: antiquewhite;
+    cursor: pointer;
+    
+}
+a {
+    text-align: left;
+    color: rgb(82, 55, 20);
+    font-size: x-large;
+}
+.book{
+    border: 0cap;
+    color: antiquewhite;
+    padding: 5px;
+    cursor: pointer;
 }
